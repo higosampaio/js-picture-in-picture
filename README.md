@@ -7,5 +7,3 @@
 <h1 align="center">Picture in Picture</h1>
 
 <p align="center">An example of a picture-in-picture implementation for shared screen developed in JavaScript.</p>
-
-<img src="img/screenshot.png" alt="Screenshot">
