@@ -4,6 +4,6 @@
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/-javascript-important?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
 </p>
 
-<h1 align="center">Picture in Picture</h1>
+<h3 align="center">Picture in Picture</h3>
 
 <p align="center">An example of a picture-in-picture implementation for shared screen developed in JavaScript.</p>
